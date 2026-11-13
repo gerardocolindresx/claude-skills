@@ -1,0 +1,206 @@
+# Lista de AI slop · español
+
+No uses nada de esto, ni variantes cercanas (otro tiempo verbal, plural o un pequeño cambio de redacción). X, Y y Z son cualquier palabra. Dilo con palabras normales o quítalo.
+
+## Formato
+- Sin rayas largas (—). Usa punto, coma o paréntesis.
+- Sin emojis, tampoco al principio de las líneas (🚀 ✅ 💡 🔹 👉 🎁).
+- Sin negrita, salvo que yo la pida.
+- Sin hashtags.
+- Sin títulos de sección en los textos cortos (posts de LinkedIn, emails). En artículos largos sí se usan.
+- No empieces dos frases seguidas con las mismas palabras.
+- No repitas la misma plantilla en cada bloque (por ejemplo, terminar cada punto con «En growth: …»).
+
+## Estructuras de frase prohibidas
+X, Y y Z son cualquier palabra.
+- Contrastes y espejos:
+  - «No es X, es Y» / «No es X. Es Y.»
+  - «No solo X, sino también Y»
+  - «X no es el problema, Y sí»
+  - «No va de X, va de Y»
+  - «Menos X, más Y»
+  - «X no era el problema»
+  - «X, no Y»
+  - «Haz X, nunca Y»
+  - «X es Y, no Z»
+  - «No porque X, sino porque Y»
+  - «No necesitas X. Necesitas Y.»
+  - «Los mejores X no Y. Hacen Z.»
+  - «X no es un problema de Y. Es un problema de Z.»
+  - «X es más que Y»
+  - «X ya no es opcional»
+  - «X ya no es un extra»
+  - «Deja de X. Empieza a Y.»
+  - «X es el nuevo Y»
+  - «La mayoría hace X. Los listos hacen Y.»
+  - «Todos los demás siguen haciendo X.»
+  - «X parecía seguro. Y daba miedo.» (pareja en espejo)
+  - «X te consigue a la gente, Y hace que se quede»
+  - «X hace que te vean. Y hace que te elijan.»
+- Eslóganes y comparativas:
+  - «X gana a Y»
+  - «Haz X antes de que alguien haga Y»
+  - «Piensa en X como Y»
+  - «Es como X pero con Y»
+  - «De X a Y» (cuando es un rango inventado)
+- Pregunta y respuesta en dos golpes:
+  - «¿El resultado? X.»
+  - «¿La buena noticia? X.»
+  - «¿Lo mejor? X.»
+  - «¿El truco? X.»
+  - «¿La diferencia? X.»
+  - «¿El objetivo? X.»
+  - «¿X? No exactamente.»
+  - «¿Es X? Sí. ¿Es Y? También.»
+  - «¿Quieres saber el secreto?»
+  - «¿Te suena?»
+  - «Una locura, ¿verdad?»
+  - «¿Y lo más loco? X.»
+  - «¿Y sinceramente? Ahí está la clave.»
+- Giros de presentación:
+  - «Pero aquí está el truco»
+  - «Pero aquí viene lo bueno»
+  - «Pero aquí viene el giro»
+  - «Esta es la verdad incómoda:»
+  - «Nadie está hablando de esto»
+  - «Aquí es donde entra X.»
+  - «Entra X.»
+  - «Una palabra: X.»
+  - «La respuesta es simple: X»
+  - «Es así de simple.»
+  - «X. Punto.»
+  - «Ahí es donde la mayoría se equivoca»
+  - «antes de que lo necesites»
+  - «antes de que te hablen»
+- Tríos y listas en fragmentos:
+  - «Sin X. Sin Y. Solo Z.»
+  - «Un X. Un Y. Un Z.»
+  - «Cada X. Cada Y. Cada Z.»
+  - «un X, 30 $ menos y un Z» (lista de fragmentos con comas)
+  - «Tanto si eres X, como Y o Z»
+- Otras: «X se siente/parece [adjetivo]».
+
+## Expresiones prohibidas
+- Aperturas de manual:
+  - «en el mundo actual»
+  - «en la era digital»
+  - «en el cambiante panorama de»
+  - «en el ámbito de»
+  - «vamos a profundizar en»
+  - «vamos a desgranar»
+  - «imagina esto:»
+  - «esto es lo importante» / «aquí está la cosa»
+  - «atrás quedaron los días en que»
+  - «abróchate el cinturón»
+  - «¿listo para llevar tu X al siguiente nivel?»
+  - «no busques más»
+  - «hablemos claro:»
+  - «ah, la eterna pregunta»
+  - «ni que decir tiene»
+  - «en esencia» / «en su núcleo»
+  - «hoy más que nunca»
+  - «a medida que la tecnología evoluciona»
+  - «en un mundo cada vez más digital»
+  - «el mundo digital»
+- Grandilocuencia:
+  - «un testimonio de»
+  - «un tapiz de»
+  - «una sinfonía de»
+  - «juega un papel crucial / clave / vital»
+  - «marca un antes y un después»
+  - «un punto de inflexión»
+  - «representa un cambio»
+  - «refleja tendencias más amplias»
+  - «sienta las bases de»
+  - «allana el camino para»
+  - «empuja los límites»
+  - «da forma al futuro de»
+  - «en la intersección de»
+  - «tender puentes»
+  - «un delicado equilibrio»
+  - «la intrincada danza de»
+  - «navegar la complejidad de»
+  - «navegar los retos»
+  - «profundamente arraigado en»
+  - «dejó una huella imborrable»
+  - «un faro de esperanza»
+  - «un tesoro de»
+  - «territorio inexplorado»
+  - «un cambio sísmico»
+  - «mover la aguja»
+  - «da rienda suelta a tu creatividad»
+  - «eleva tu juego»
+  - «aprovecha el poder de»
+  - «sumérgete en el mundo de»
+  - «emprender un viaje»
+  - «abraza el viaje»
+  - «abraza el cambio»
+  - «fomentar un sentido de»
+  - «cultivar una cultura de»
+  - «una amplia gama de»
+  - «una gama diversa de»
+  - «el tejido de»
+  - «el siempre cambiante mundo de»
+  - «arroja luz sobre»
+  - «prosperar en»
+  - «en el competitivo mercado actual»
+- Fuentes vagas:
+  - «los expertos señalan»
+  - «algunos críticos sostienen»
+  - «los observadores han notado»
+  - «los informes del sector sugieren»
+  - «aunque los detalles son limitados»
+- Jerga de oficina:
+  - «fruta madura» / «quick wins» (low-hanging fruit)
+  - «retomar el tema»
+  - «hacer un touch base»
+  - «pensar fuera de la caja»
+  - «valor añadido»
+  - «buenas prácticas» / «mejores prácticas»
+  - «de cara al futuro» / «en adelante»
+  - «stakeholders clave»
+  - «empoderar a tu equipo»
+  - «integrar sin fricciones»
+- Palabras de marketing vacías: sinergia, disruptivo, revolucionario, game changer, best-in-class, de clase mundial, soluciones integrales, potenciar al máximo, llevar al siguiente nivel, ecosistema (si no es literal), apalancar, holístico, innovador.
+
+## Palabras prohibidas
+- profundizar (en el sentido de «delve»)
+- tapiz
+- testimonio (de)
+- ámbito / reino
+- navegar (en sentido figurado)
+- crucial / fundamental / pivotal
+- miríada / plétora
+- intrincado / entresijos
+- meticuloso / meticulosamente
+- encomiable
+- subrayar
+- iluminar
+- dilucidar
+- multifacético
+- interacción / interconexión
+- primordial
+- transformador
+- rompedor / pionero
+- vibrante
+- presume de
+- reforzar / apuntalar
+- cosechar
+- embarcarse (en)
+- empeño
+- resonar (con)
+- siempre cambiante
+- floreciente
+- además / asimismo (como conector de relleno)
+- cautivador
+- bullicioso
+- enclavado
+- caprichoso
+- caleidoscopio
+- piedra angular
+- desentrañar
+- lidiar (con)
+- elaborar (aplicado a escribir: «un texto elaborado»)
+- silenciosamente / en silencio
+- ruido («destacar entre el ruido»)
+- sobrealimentar / turbo

@@ -1,0 +1,162 @@
+# AI slop list · English
+
+Never use any of these, or close variations (other tenses, plurals, small rewordings). X, Y and Z stand for any words. Say it in plain words instead, or cut it.
+
+## Sentence formats
+- It's not X, it's Y
+- Not just X, but also Y
+- X isn't the problem, Y is
+- It's not about X, it's about Y
+- Less X, more Y
+- X wasn't the issue
+- X beats Y (slogan)
+- Do X, never Y
+- X is Y, not Z
+- [do X] before [someone does Y]
+- The X gets them in, the Y makes them stay
+- X gets you noticed. Y gets you chosen.
+- No X. No Y. Just Z.
+- One X. One Y. One Z.
+- X. Period.
+- The result? [X].
+- The good news? [X].
+- The best part? [X].
+- The catch? [X].
+- Want to know the secret?
+- But here's the catch
+- But here's the kicker
+- But here's the twist
+- Pretty wild, right?
+- Sound familiar?
+- And honestly? That's the point.
+- Everyone else? Still doing X.
+- Most people X. Smart people Y.
+- Stop X. Start Y.
+- X is the new Y
+- Whether you're X, Y or Z
+- From X to Y (fake range)
+- where most people get it wrong
+- before you need it
+- before they ever talk to you
+- X feels/seems [adjective]
+- It's like X meets Y
+- Not because X, but because Y
+- The difference? [X].
+- And the best part?
+- You don't need X. You need Y.
+- The best X don't Y. They Z.
+- X isn't a Y problem. It's a Z problem.
+- X is more than just Y
+- X isn't optional anymore
+- X is no longer a nice-to-have
+- Is it X? Yes. Is it Y? Also yes.
+- One word: X.
+- The answer is simple: X
+- It's that simple.
+- This is where X comes in.
+- Enter: X.
+- Think of it as X for Y
+- Every X. Every Y. Every Z.
+- X felt safe. Y felt scary. (mirrored pair)
+- one X, $Y gone, and a Z (comma-list fragments)
+- Here's the uncomfortable truth:
+- Nobody is talking about this
+- The goal? [X].
+- X? Not quite.
+- X, not Y.
+- And the crazy part? [X].
+
+## Phrases
+- In today's fast-paced world
+- In today's digital age
+- In the ever-evolving landscape of
+- In the realm of
+- Let's dive deep into
+- Let's delve into
+- Let's unpack
+- Picture this:
+- Here's the thing
+- Gone are the days when
+- Buckle up
+- Ready to take your X to the next level?
+- Look no further
+- As we navigate
+- As technology continues to evolve
+- Real talk:
+- Ah, the age-old question
+- Needless to say
+- At its core
+- Now, more than ever
+- a testament to
+- a tapestry of
+- a symphony of
+- a rich tapestry
+- plays a crucial role
+- plays a pivotal role
+- plays a vital role
+- marks a turning point
+- a key turning point
+- represents a shift
+- reflects broader trends
+- the evolving landscape of
+- setting the stage for
+- paving the way for
+- pushing the boundaries
+- shaping the future of
+- at the intersection of
+- bridge the gap
+- a delicate balance
+- the intricate dance of
+- navigate the complexities of
+- navigate the challenges
+- deeply rooted in
+- left an indelible mark
+- a beacon of hope
+- a treasure trove of
+- uncharted territory
+- a seismic shift
+- move the needle
+- unleash your creativity
+- elevate your game
+- harness the power of
+- dive into the world of
+- embark on a journey
+- fostering a sense of
+- cultivating a culture of
+- a wide array of
+- a diverse array of
+- the fabric of
+- the ever-changing world of
+- in an increasingly digital world
+- the digital realm
+- sheds light on
+- experts argue
+- some critics argue
+- observers have noted
+- industry reports suggest
+- while specific details are limited
+- Embrace the journey
+- low-hanging fruit
+- circle back
+- touch base
+- think outside the box
+- value-add
+- best practices
+- moving forward / going forward
+- key stakeholders
+- empower your team
+- seamlessly integrate
+- embrace change
+- thrive in
+- in today's competitive market
+
+## Words
+delve / delves / delving · tapestry · testament (to) · realm · navigate (figurative) · pivotal · myriad · plethora · intricate / intricacies · meticulous / meticulously · commendable · underscore / underscores · illuminate · elucidate · multifaceted · interplay · interconnectedness · paramount · transformative · groundbreaking · vibrant · boasts · bolster · garner · embark (on) · endeavor / endeavors · resonate (with) · ever-evolving · burgeoning · furthermore · moreover · captivating · bustling · nestled · whimsical · kaleidoscope · cornerstone · unravel / unraveling · grapple (with) · craft / crafted (for writing) · quietly · noise ("cut through the noise") · supercharge
+
+## Formatting
+- the em dash (—)
+- emojis at the start of every line (🚀 ✅ 💡 🔥)
+- bold text everywhere
+- hashtags at the end (#AI #Growth #Success)
+
+Also: no em dashes, no emojis, no hashtags, no bold text unless asked, no headings in short posts. Don't start two sentences in a row with the same words.
